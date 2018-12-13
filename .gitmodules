@@ -1,0 +1,3 @@
+[submodule "GitHubComLFSSubmoduleTest"]
+	path = GitHubComLFSSubmoduleTest
+	url = git@github.com:Axxzilla/GitHubComLFSSubmoduleTest.git
